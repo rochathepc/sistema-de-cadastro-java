@@ -17,5 +17,7 @@ public class Main {
         System.out.println("4 - Sair");
 
         int opcao = menu.nextInt();
+
+        while (opcao != 4 ) {}
     }
 }
